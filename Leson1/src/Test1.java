@@ -16,6 +16,7 @@ public class Test1 {
 // kamayakan amboxj tiv int e
         float a = 455449897.95F;
         System.out.println(a);
+        System.out.println(a);
         double b = 45.95;
         System.out.println(b);
 // kamayakan racional tiv doubl e
