@@ -7,6 +7,7 @@ public class Test1 {
 
         short y = -4590;
         System.out.println(y);
+        System.out.println(y);
 
         int z = 568;
         System.out.println(z);
@@ -16,8 +17,7 @@ public class Test1 {
 // kamayakan amboxj tiv int e
         float a = 455449897.95F;
         System.out.println(a);
-        System.out.println(a);
-        double b = 45.95;
+              double b = 45.95;
         System.out.println(b);
 // kamayakan racional tiv doubl e
 
